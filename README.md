@@ -14,8 +14,9 @@ Well, this Excel file has six ways to measure which country is the best at sport
   - A weighted medal count with teams getting a medal for every starting athlete
   - Aggregation by sport, like a track meet.  In this method, a country being the best at rugby is equivalent to a country being the best at gymnastics
     - For example, China did the best in the sport of artisitic gymnastics, so they receive one gold medal in this calculation
-  - Aggregation by sport and gender.  In this method, acountry being the best at women's rugby is equivalent to a country being the best at men's gymnastics
+  - Aggregation by sport and gender.  In this method, a country being the best at women's rugby is equivalent to a country being the best at men's gymnastics
     - For example, Japan did the best in women's skateboarding, so they receive one gold medal in this calculation, just like Brazil, who did the best in men's skateboarding
+    - Medals in mixed events are counted half towards the country's men's tally and half toward it's women's.  Nongendered sports like Equestrian count for half of gendered sports
     - I believe this is the fairest evaluation of which country is the best at sports
     
     
